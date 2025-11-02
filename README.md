@@ -13,6 +13,6 @@ I'm a student from IFC Araquari, learning more about JavaScript, Python, Vue.js.
 ### [**Movies API**](https://github.com/victor-de-sousa/tutorial-tmdb)
   - Made API from [The Movie Database](https://www.themoviedb.org/)
 ### [**TinkerFlux**](https://github.com/TinkerFluxHackathon)
-  - Roll: The website IA, the back-end
+  - Roll: The website AI, the back-end
 
 <!--  ### [**COBRA**](https://github.com/Cinema-Original-Brasileiro) -->
