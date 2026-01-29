@@ -10,9 +10,9 @@ I'm a student from IFC Araquari, learning more about JavaScript, Python, Vue.js.
 
 # Projects
 
+### [**COBRA**](https://github.com/Cinema-Original-Brasileiro)
+  - Roll: Front-end, API store 
 ### [**Movies API**](https://github.com/victor-de-sousa/tutorial-tmdb)
   - Made API from [The Movie Database](https://www.themoviedb.org/)
 ### [**TinkerFlux**](https://github.com/TinkerFluxHackathon)
   - Roll: The website AI, the back-end
-
-<!--  ### [**COBRA**](https://github.com/Cinema-Original-Brasileiro) -->
