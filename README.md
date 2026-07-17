@@ -1,3 +1,7 @@
+<div align='center'>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=E5E7EB&center=true&width=435&lines=Hi%2C+I'm+Victor+de+Sousa;Welcome+to+my+profile!" alt="Typing SVG" /></a>
+</div>
+
 # <code>💻 Web Developer</code>
 
 I'm a student from IFC Araquari, learning more about Vue.js, Django REST FRAMEWORK, JavaScript, Python.  
@@ -25,11 +29,6 @@ I'm a student from IFC Araquari, learning more about Vue.js, Django REST FRAMEWO
 ### [**TinkerFlux**](https://github.com/TinkerFluxHackathon)
   - Roll: The website AI, the back-end
 
-<div align="center">
-  <h3>⭐ GitHub Stats ⭐</h3>
-  <br>
-  <div style="display: flex; justify-content: center;">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=victor-de-sousa&line_height=25&show_icons=true&theme=dark">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victor-de-sousa&layout=compact&theme=dark">
-  </div>
-</div>
+## ⭐ GitHub Stats ⭐
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=victor-de-sousa&rank_icon=percentile&hide_title=true&show_icons=true&include_all_commits=true&theme=github_dark_dimmed)](https://github-stats-extended.vercel.app/api?username=victor-de-sousa&rank_icon=percentile&hide_title=true&show_icons=true&include_all_commits=true&theme=github_dark_dimmed)
